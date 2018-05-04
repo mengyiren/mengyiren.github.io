@@ -8,7 +8,7 @@ description: "Machine learning notebook" # used by search engines
 # THEME-SPECIFIC CONFIGURATION 
 theme_settings:
   # Meta
-  title: Machine Learning # blog's title
+  title: Machine Learning 机器学习 # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: 9e01480be490a7c913c212989e0905a5# Email MD5 hash
