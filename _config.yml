@@ -11,7 +11,7 @@ theme_settings:
   title: Machine Learning # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: 9e01480be490a7c913c212989e0905a5# Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
