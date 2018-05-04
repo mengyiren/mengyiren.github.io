@@ -5,7 +5,7 @@ title: Machine Learning # site's title
 description: "Machine learning notebook" # used by search engines
 
 
-# THEME-SPECIFIC CONFIGURATION
+# THEME-SPECIFIC CONFIGURATION 
 theme_settings:
   # Meta
   title: Machine Learning # blog's title
