@@ -4,7 +4,7 @@ rvm:
 script: "bundle install & bundle exec jekyll build"
 
 notifications:
-  email: false
+  email: true
 
 # branch whitelist, only for GitHub Pages
 branches:
